@@ -1,6 +1,6 @@
 
 
 # Ez Lists Support Page
-## Contact: sarthakgupta@outlook.com
+## Contact: ezlist@outlook.com
 ### Thanks!
 
