@@ -4,7 +4,7 @@
 ## Contact: ezlist@outlook.com
 ### Thanks!
 
-#PRIVACY POLICY:
+# PRIVACY POLICY:
 This app does not collect or distribute and personal information to any third-party apps or services.
 
 Ez List does not track any items you add to the list or any data you input.
